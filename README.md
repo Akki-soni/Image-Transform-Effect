@@ -91,6 +91,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You
 
-Thank you for exploring the Toast Notification! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+Thank you for exploring the Image-Transform-Effect! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
 </div>

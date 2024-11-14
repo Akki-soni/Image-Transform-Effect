@@ -36,11 +36,11 @@
 
 ## 🌟 Screenshots
 
-![Password Generator Screenshot](/TNW_Screenshot.png)
+![Image-Transform-Effect_Screenshot](/images/ITE_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://toast-notification-web.vercel.app/)
+[View Live Demo]()
 
 ## How to Use
 
@@ -86,7 +86,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You

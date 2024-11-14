@@ -46,11 +46,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Akki-soni/Toast-Notification-Web.git
+   git clone <https://github.com/Akki-soni/Image-Transform-Effect.git>
    ```
 2. Open the project folder:
    ```bash
-   cd toast-notification
+   cd Image-Transform-Effect
    ```
 3. Open index.html in any web browser
 
